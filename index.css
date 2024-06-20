@@ -32,6 +32,12 @@ h3 { /* Accountant */
 
 /* End Family */
 
+
+/* Solid border */
+hr.solid {
+  border-top: 3px solid #bbb;
+}
+
 /* Colors */
 h1 { 
   color: #1E2839; 
