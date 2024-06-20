@@ -213,13 +213,13 @@ page[size="A4"] {
 
 .workExperience>ul {
   list-style-type: none;
+  padding-top: 3cm;
   padding-left: 0;
 }
 
 .workExperience>ul>li {
   position: relative;
   margin: 0;
-  padding-top: 10cm;
   padding-bottom: 0.5cm;
   padding-left: 0cm;
 }
