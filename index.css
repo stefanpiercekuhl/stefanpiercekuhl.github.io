@@ -2,20 +2,20 @@
 
 /* Family */
 h1 { 
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Julius Sans One', sans-serif;
 }
 
 h2 { /* Contact, Skills, Education, About me, Work Experience */
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Archivo Narrow', sans-serif;
 }
 
 h3 { /* Accountant */
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .jobPosition span, 
 .projectName span {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 .upperCase {
@@ -26,7 +26,7 @@ h3 { /* Accountant */
 .smallText span, 
 .smallText p, 
 .smallText a {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   text-align: justify;
 }
 
