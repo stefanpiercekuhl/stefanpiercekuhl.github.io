@@ -39,7 +39,7 @@ h1 {
 
 .leftPanel, 
 .leftPanel a {
-  color: #B5B5B5;
+  color: #96969C;
   text-decoration: none;
 }
 
@@ -148,7 +148,7 @@ page[size="A4"] {
 
 .leftPanel {
   width: 27%;
-  background-color: #D4DCEA;
+  background-color: #E2EBEF;
   padding: 0.7cm;
   display: flex;
   flex-direction: column;
