@@ -39,12 +39,12 @@ h1 {
 
 .leftPanel, 
 .leftPanel a {
-  color: #EBF0F9;
+  color: #B5B5B5;
   text-decoration: none;
 }
 
 .leftPanel h2 {
-  color: 1E2839;
+  color: #1E2839;
 }
 
 /* End Colors */
@@ -148,7 +148,7 @@ page[size="A4"] {
 
 .leftPanel {
   width: 27%;
-  background-color: #484444;
+  background-color: #D4DCEA;
   padding: 0.7cm;
   display: flex;
   flex-direction: column;
