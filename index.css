@@ -217,17 +217,6 @@ page[size="A4"] {
   padding-left: 0.5cm;
 }
 
-.workExperience>ul>li:before {
-  background-color: #b8abab;
-  width: 0.05cm;
-  content: '';
-  position: absolute;
-  top: 0.1cm;
-  bottom: -0.2cm; /* change this after border removal */
-  left: 0.05cm;
-}
-
-
 .jobPosition {
   display: flex;
   flex-direction: row;
