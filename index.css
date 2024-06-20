@@ -219,6 +219,7 @@ page[size="A4"] {
 .workExperience>ul>li {
   position: relative;
   margin: 0;
+  padding-top: 1cm;
   padding-bottom: 0.5cm;
   padding-left: 0cm;
 }
